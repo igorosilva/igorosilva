@@ -78,18 +78,24 @@ Olá! Sou formado em Análise e Desenvolvimento de Sistemas pela Fatec. Desde qu
 
 ### 📊 Estatísticas
 
-  <img 
-  align="left" 
-  alt="GitHub Stats"
-  width="46%" 
-  style="padding-right: 0; !important"
-  src="https://github-readme-stats.vercel.app/api?username=igorosilva&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
-/>
 
-<img 
-  align="right" 
-  alt="Top Langs"
-  width="46%" 
-  style="padding-left: 0; !important"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorosilva&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=igorosilva&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
+        width="100%"
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Langs"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorosilva&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+<br clear="both"/>
