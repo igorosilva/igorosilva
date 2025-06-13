@@ -27,8 +27,8 @@ Olá! Sou formado em Análise e Desenvolvimento de Sistemas pela Fatec. Desde qu
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
@@ -58,8 +58,8 @@ Olá! Sou formado em Análise e Desenvolvimento de Sistemas pela Fatec. Desde qu
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Kubernetes" 
+    title="Kubernetes"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" 
